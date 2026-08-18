@@ -96,18 +96,25 @@ The dashboard can help answer practical logistics questions such as:
 3. When prompted, provide the required data source or update the Power Query source path to your dataset.
 4. Refresh the data and explore the report pages.
 
-> This project is provided as a `.pbit` Power BI template. A template may require you to supply or reconnect the underlying dataset before visuals can be refreshed.
 
-## Suggested repository structure
-
-```text
-.
-├── FedEx Logistics Performance Dashboard.pbit
-├── README.md
-└── assets/
-    └── dashboard-preview.png
+## Repository Structure
 ```
 
+FedEx-Logistics-Performance-Dashboard/
+│
+├── FedEx Logistics Performance Dashboard.pbit
+│
+├── Data/
+│   └── fedex_cleaned.csv
+│
+├── Snapshots/
+│   ├── Snapshot_of_Dashboard_1.png
+│   └── Snapshot_of_Dashboard_2.png
+│
+├── README.md
+│
+└── LICENSE
+```
 ## Author
 
 Created by **Sakshi Chore** as a Data Science / Power BI portfolio project.
