@@ -2,6 +2,8 @@
 
 ### Power BI dashboard for shipment tracking, delivery-performance monitoring, and freight-cost analysis
 
+**Live dashboard:** [View the FedEx Logistics Performance Dashboard in Power BI](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c&pbi_source=mobile_android&groupObjectId=8f44476f-93f9-42ef-9b9b-9533257dee48&reportObjectId=35bf2b6e-6298-47f8-91e3-65544d30fee2&reportPage=10ad3d40769f7e303c91&bookmarkGuid=595d3c91-d9ac-41d8-a831-4753cb9c4eca&fullScreen=0)
+
 ## Overview
 
 The **FedEx Logistics Performance Dashboard** is an interactive Power BI project that transforms logistics data into clear, actionable insights. It brings shipment activity, delivery timelines, processing efficiency, and freight costs into one centralized report.
@@ -57,6 +59,7 @@ This page provides a high-level operational view, including:
 - Monthly shipment trends
 - Shipment-mode distribution
 - Average delivery variance by shipment mode
+  ![Snapshot_of_Dashnoard_1](https://github.com/sakshi200-code/FedEx-Logistic-PowerBI-Dashboard/blob/main/Snapshots/Snapshot_of_Dashnoard_1.png)
 
 ### 2. Freight cost analysis
 
@@ -67,6 +70,7 @@ This page focuses on cost and efficiency drivers, including:
 - Top 10 products by freight cost
 - Yearly freight-cost trend
 - Average processing time by shipment mode
+ ![Snapshot_of_Dashnoard_2](https://github.com/sakshi200-code/FedEx-Logistic-PowerBI-Dashboard/blob/main/Snapshots/Snapshot_of_Dashnoard_2.png)
 
 ## Data fields used
 
